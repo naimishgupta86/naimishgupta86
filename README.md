@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=200&section=header&text=Naimish%20Gupta&fontSize=40&fontColor=ffffff" />
+  <img src="https://raw.githubusercontent.com/naimishgupta86/naimishgupta86/main/banner.png" />
 </p>
 
 <!-- Typing Animation -->
