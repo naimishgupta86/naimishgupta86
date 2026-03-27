@@ -1,38 +1,66 @@
-# Hi 👋, I'm Naimish Gupta
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=200&section=header&text=Naimish%20Gupta&fontSize=40&fontColor=ffffff" />
+</p>
 
-💻 Full Stack Developer  
-🌱 Currently learning React & Backend  
-🚀 Passionate about building modern web applications  
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+Learner;Web+App+Builder;Tech+Enthusiast" />
+</p>
 
 ---
 
-## 🛠️ Skills
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge)
+## 👨‍💻 About Me
+- 💻 Full Stack Developer  
+- 🌱 Currently learning React & Backend  
+- 🚀 Building modern & responsive web apps  
+- 🎯 Goal: Become a professional developer  
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github,vscode" />
+</p>
 
 ---
 
 ## 🚀 Projects
-- 🌦️ Weather App  
+- 🌦️ Weather App (Live on Vercel)  
 - 💼 Portfolio Website  
 - 🛒 E-commerce UI  
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=naimishgupta86&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naimishgupta86&show_icons=true&theme=radical" />
+</p>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=naimishgupta86&theme=radical)
-
----
-
-## 📫 Connect with me
-- 📧 Email: naimishguptaqwqw@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/naimishgupta86  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimishgupta86&theme=radical" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
-I love turning ideas into real-world web applications 🚀
+## 🌐 Connect with Me
+<p align="center">
+  <a href="mailto:naimishguptaqwqw@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/naimishgupta86">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+---
+
+## 🧠 Fun Fact
+💡 I enjoy turning ideas into real-world applications 🚀  
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dd2476,100:ff512f&height=120&section=footer"/>
+</p>
